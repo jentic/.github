@@ -38,7 +38,7 @@
 
 ## 🧪 Sample Projects & Demos
 
-- [`Claude + NYT + Discord Demo`]([https://github.com/jentic/nyt-discord-demo](https://jentic.com/watch-demo)) – Watch how Claude uses real APIs with Jentic
+- [`Claude + NYT + Discord Demo`](https://jentic.com/watch-demo) – Watch how Claude uses real APIs with Jentic
 - [`LangGraph x Jentic`](https://docs.jentic.com) – Coming soon
 - [`Jentic with Autogen`](https://docs.jentic.com) – Coming soon
 
