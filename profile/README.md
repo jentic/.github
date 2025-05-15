@@ -46,9 +46,10 @@
 
 ## 🤝 Join the Community
 
-- Live meetups for agent builders
-- Community-sourced APIs & workflows
-- Early access to internal demos
+* Connect at online meetups for agent builders
+* Explore community-driven APIs and workflows
+* Stay updated on the latest in agentic workflows
+
 
 <div align="center">
   <p align="center">
