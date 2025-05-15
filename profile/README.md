@@ -1,8 +1,10 @@
 <h3 align="center">
   <picture>
-    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic/.github/blob/main/profile/assets/jenticBanner.png?raw=true">
+    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic/.github/refs/heads/main/assets/jenticBanner.png">
   </picture>
 </h3>
+
+
 
 <h3 align="center">
   <p><strong>Agents Run on APIs</strong></p>
