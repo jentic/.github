@@ -26,9 +26,9 @@
 
 ## 🔧 Core Tools & SDKs
 
-- [`Jentic SDK (Python)`](https://github.com/jentic/jentic-py) – Official Python client for using Jentic in your agents
-- [`Jentic REST API`](https://docs.jentic.com/api) – Hosted MCP server endpoint for agent integration
-- [`OAK Format`](https://github.com/jentic/oak-spec) – The open standard behind the Open Agentic Knowledge Base
+- [`Jentic SDK (Python)`](https://github.com/jentic/jentic-tools) – Official SDK for using Jentic in your agents
+- [`Jentic Tools`](https://github.com/jentic/jentic-tools) – MCP server endpoint for agent integration
+- [`OAK`](https://github.com/jentic/oak) – The open standard behind the Open Agentic Knowledge Base
 
 ---
 
