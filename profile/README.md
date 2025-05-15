@@ -1,6 +1,6 @@
 <h3 align="center">
   <picture>
-    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic/.github/main/profile/assets/jenticBanner.png">
+    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic/.github/blob/main/profile/assets/jenticBanner.png">
   </picture>
 </h3>
 
