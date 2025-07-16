@@ -32,7 +32,7 @@
 
 - [`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks) – Official SDK for using Jentic in your agents
 - [`Jentic Tools`](https://github.com/jentic/jentic-sdks) – MCP server endpoint for agent integration
-- [`OAK`](https://github.com/jentic/jentic-public-aps) – The open standard behind our knowledge base
+- [`OAK`](https://github.com/jentic/jentic-public-apis) – The open standard behind our knowledge base
 
 ---
 
