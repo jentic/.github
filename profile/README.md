@@ -34,7 +34,7 @@
 - [`Arazzo Engine`](https://github.com/jentic/arazzo-engine) – The Execution Engine for Arazzo: Automate, Document, Ship.
 - [`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks) – Official SDK for using Jentic in your agents
 - [`Jentic Tools`](https://github.com/jentic/jentic-sdks) – MCP server endpoint for agent integration
-- [`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis) – The open standard behind our knowledge base
+- [`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis) – The open knowledge layer for AI agents and APIs
 
 ---
 
