@@ -7,8 +7,8 @@
 
 
 <h3 align="center">
-  <p><strong>Agents Run on APIs</strong></p>
-  <p>One integration, Unlimited APIs and workflows</p>
+  <p><strong>Business agents at work</strong></p>
+  <p>The world runs on APIs. One paltform for all agent capabilities. Open, secure and reliable.</p>
 </h3>
 
 <p align="center">
