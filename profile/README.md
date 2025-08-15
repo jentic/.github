@@ -4,11 +4,9 @@
   </picture>
 </h3>
 
-
-
 <h3 align="center">
   <p><strong>Business agents at work</strong></p>
-  <p>The world runs on APIs. One paltform for all agent capabilities. Open, secure and reliable.</p>
+  <p>The world runs on APIs. One platform for all agent capabilities. Open, secure, and reliable.</p>
 </h3>
 
 <p align="center">
@@ -31,7 +29,9 @@
 ## 🔧 Core Tools & SDKs
 
 - [`Standard Agent`](https://github.com/jentic/standard-agent) – The composable standard reasoning agent
-- [`Arazzo Engine`](https://github.com/jentic/arazzo-engine) – The Execution Engine for Arazzo: Automate, Document, Ship.
+- [`Arazzo Engine`](https://github.com/jentic/arazzo-engine) – **The open-source toolkit for working with [Arazzo](https://github.com/OAI/Arazzo) workflows**. This repository contains all Jentic’s open-source Arazzo tools:
+  - **[Arazzo Runner](https://github.com/jentic/arazzo-engine/tree/main/runner)** – Executes Arazzo workflows end-to-end
+  - **Arazzo Generator** *(coming soon)*
 - [`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks) – Official SDK for using Jentic in your agents
 - [`Jentic Tools`](https://github.com/jentic/jentic-sdks) – MCP server endpoint for agent integration
 - [`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis) – The open knowledge layer for AI agents and APIs
@@ -51,7 +51,6 @@
 * Connect at online meetups for agent builders
 * Explore community-driven APIs and workflows
 * Stay updated on the latest in agentic workflows
-
 
 <div align="center">
   <p align="center">
