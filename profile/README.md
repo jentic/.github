@@ -31,7 +31,7 @@
 - [`Standard Agent`](https://github.com/jentic/standard-agent) – The composable standard reasoning agent
 - [`Arazzo Engine`](https://github.com/jentic/arazzo-engine) – **The open-source toolkit for working with [Arazzo](https://github.com/OAI/Arazzo) workflows**. This repository contains all Jentic’s open-source Arazzo tools:
   - **[Arazzo Runner](https://github.com/jentic/arazzo-engine/tree/main/runner)** – Executes Arazzo workflows end-to-end
-  - **[Arazzo Generator](https://github.com/jentic/standard-agent)** - Tool for generating Arazzo workflows from OpenAPI specs using AI 
+  - **[Arazzo Generator](https://github.com/jentic/arazzo-engine/tree/main/generator)** - Tool for generating Arazzo workflows from OpenAPI specs using AI
 - [`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks) – Official SDK for using Jentic in your agents
 - [`Jentic Tools`](https://github.com/jentic/jentic-sdks) – MCP server endpoint for agent integration
 - [`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis) – The open knowledge layer for AI agents and APIs
