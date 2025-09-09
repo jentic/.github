@@ -158,14 +158,6 @@ We believe in recognizing our contributors:
 
 ---
 
-## 📈 Project Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jentic&show_icons=true&theme=default&include_all_commits=true&count_private=false" alt="Jentic GitHub Stats" />
-</div>
-
----
-
 > 🧩 Jentic is built for developers who want to move fast, skip boilerplate, and give their agents real-world capabilities without complexity.
 
 **Ready to contribute?** Start by exploring our repositories above, joining our Discord, and finding your first issue to tackle!
