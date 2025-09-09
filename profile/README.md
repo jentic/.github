@@ -21,7 +21,7 @@
 <div align="center">
   <p>
     <a href="https://hacktoberfest.com/">
-      <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet.svg?style=for-the-badge" alt="Hacktoberfest 2024" />
+      <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet.svg?style=for-the-badge" alt="Hacktoberfest 2025" />
     </a>
     <a href="https://github.com/search?q=org%3Ajentic+label%3A%22good+first+issue%22+state%3Aopen&type=issues">
       <img src="https://img.shields.io/badge/Good%20First%20Issues-Available-7057ff.svg?style=for-the-badge" alt="Good First Issues" />
