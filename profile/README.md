@@ -18,39 +18,6 @@
   <a href="https://jentic.com" target="_blank">Website</a>
 </p>
 
-<div align="center">
-  <p>
-    <a href="https://hacktoberfest.com/">
-      <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet.svg?style=for-the-badge" alt="Hacktoberfest 2025" />
-    </a>
-    <a href="https://github.com/search?q=org%3Ajentic+label%3A%22good+first+issue%22+state%3Aopen&type=issues">
-      <img src="https://img.shields.io/badge/Good%20First%20Issues-Available-7057ff.svg?style=for-the-badge" alt="Good First Issues" />
-    </a>
-  </p>
-</div>
-
----
-
-## 🎃 Hacktoberfest 2025 - Join Us!
-
-We're excited to participate in Hacktoberfest! Whether you're new to open source or a seasoned contributor, we have opportunities for everyone.
-
-### 🌟 Quick Start for Contributors
-
-1. **Browse our repositories** below and find one that interests you
-2. **Look for issues** labeled `hacktoberfest` and `good first issue`
-3. **Join our [Discord](https://discord.gg/TdbWXZsUSm)** for real-time help and community
-4. **Read the contributing guides** in each repository
-
-### 🎯 Popular Contribution Areas
-
-| Interest | Repository | Good For |
-|----------|------------|----------|
-| **AI Agents & Reasoning** | [Standard Agent](https://github.com/jentic/standard-agent) | Python developers, AI enthusiasts, beginners |
-| **Workflow Automation** | [Arazzo Engine](https://github.com/jentic/arazzo-engine) | Workflow experts, API developers |
-| **SDK Development** | [Jentic SDKs](https://github.com/jentic/jentic-sdks) | Python developers, tool builders |
-| **API Knowledge** | [Public APIs](https://github.com/jentic/jentic-public-apis) | API experts, documentation writers |
-
 ---
 
 ## 🔧 Core Tools & SDKs
