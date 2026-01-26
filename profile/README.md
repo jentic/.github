@@ -28,7 +28,7 @@
 
 - **[`Arazzo Engine`](https://github.com/jentic/arazzo-engine)** – The open-source toolkit for working with [Arazzo](https://github.com/OAI/Arazzo) workflows
   - **[Arazzo Runner](https://github.com/jentic/arazzo-engine/tree/main/runner)** – Executes Arazzo workflows end-to-end
-  - **[Arazzo Generator](https://github.com/jentic/arazzo-engine/tree/main/generator)** - Tool for generating Arazzo workflows from OpenAPI specs using AI
+  - **[Arazzo Generator](https://github.com/jentic/arazzo-engine/tree/main/generator)** - Tool for generating Arazzo workflows from OpenAPI Descriptions using AI
   - Perfect for: Workflow automation experts, API developers
 
 - **[`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks)** – Official SDK for using Jentic in your agents
