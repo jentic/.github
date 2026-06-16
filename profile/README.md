@@ -40,6 +40,9 @@
 - **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – The open knowledge layer for AI agents and APIs
   - Perfect for: API documentation writers, knowledge contributors
 
+- **[`Jentic OpenAPI Tools`](https://github.com/jentic/jentic-openapi-tools)** – Python toolkit for parsing, validating, and transforming OpenAPI documents
+  - Perfect for: Python experts, OpenAPI tool builders
+
 ---
 
 ## 🧪 Sample Projects & Demos
