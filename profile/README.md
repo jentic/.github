@@ -156,24 +156,6 @@ Connect with agent builders, API developers, and workflow automation experts:
   </p>
 </div>
 
-### Community Highlights
-- **Weekly Ask Me Anything**: Join our Discord for live Q&A sessions
-- **Contributor Spotlights**: We feature outstanding contributors monthly
-- **Agent Builder Meetups**: Connect with other developers building AI agents
-- **API Workshop Series**: Learn about integrating APIs with AI agents
-
----
-
-## 🏆 Recognition & Rewards
-
-We believe in recognizing our contributors:
-
-- **Contributor Hall of Fame** in our documentation
-- **Special Discord roles** for active contributors
-- **Early access** to new features and tools
-- **Jentic swag** for significant contributions
-- **Speaking opportunities** at our community events
-
 ---
 
 > 🧩 Jentic is built for developers who want to move fast, skip boilerplate, and give their agents real-world capabilities without complexity.
