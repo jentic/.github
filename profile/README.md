@@ -101,7 +101,7 @@ The best places to get involved:
 3. **[`Arazzo Engine`](https://github.com/jentic/arazzo-engine)** and **[`Jentic Arazzo Tools`](https://github.com/jentic/jentic-arazzo-tools)** – runners, generators, parsers, validators, and UI for Arazzo workflows
 
 ### 🌟 New to Open Source?
-- Start with issues labeled `good first issue` in [Jentic One](https://github.com/jentic/jentic-one/labels/good%20first%20issue), [Jentic Public APIs](https://github.com/jentic/jentic-public-apis/labels/good%20first%20issue), or [Arazzo Engine](https://github.com/jentic/arazzo-engine/labels/good%20first%20issue)
+- Start with issues labeled `good first issue` in [Jentic One](https://github.com/jentic/jentic-one/labels/good%20first%20issue) or [Arazzo Engine](https://github.com/jentic/arazzo-engine/labels/good%20first%20issue)
 - Adding or improving an API spec in Jentic Public APIs is a great first contribution
 - Join our Discord for friendly help and guidance
 
