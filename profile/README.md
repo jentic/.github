@@ -29,19 +29,7 @@
   - Fully API-compatible with the hosted and VPC Jentic editions
   - Perfect for: self-hosters, privacy-conscious teams, local agent development
 
-- **[`Jentic Skills`](https://github.com/jentic/jentic-skills)** – Agent skills for the Jentic platform
-  - **[`jentic`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic)** – Core Jentic skill for self-hosted Jentic Mini
-  - **[`jentic-v1`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic-v1)** – Skill for hosted Jentic (jentic.com)
-  - **[`jentic-workflows`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic-workflows)** – Generates Arazzo workflow YAML from a natural-language goal or agent tool trace
-  - Perfect for: OpenClaw users, agent workflow automation
-
-- **[`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks)** – Official Python SDK for discovering and executing APIs and workflows in your agents
-  - Perfect for: Python developers, agent builders, tool integrators
-
-- **[`Jentic Tools`](https://github.com/jentic/jentic-sdks)** – MCP server for connecting any MCP-compatible agent to Jentic
-  - Perfect for: Claude Desktop, Cursor, Windsurf, ChatGPT, VS Code MCP users
-
-- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 6,000+ AI-ready API specs and 2,000+ Arazzo workflows
+- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 8,000+ AI-ready API specs and 2,000+ Arazzo workflows
   - Perfect for: API documentation writers, knowledge contributors
 
 - **[`Awesome Agent APIs`](https://github.com/jentic/awesome-agent-apis)** - A curated list of the most AI-agent-ready APIs, scored by the Jentic API AI-Readiness Framework
@@ -104,13 +92,21 @@ Give your agents well-formed workflows and API specs to work with. These librari
 
 We welcome contributors of all backgrounds and experience levels!
 
+### 🎯 Where to Contribute First
+
+The best places to get involved:
+
+1. **[`Jentic One`](https://github.com/jentic/jentic-one)** – the self-hosted API execution layer. Bug fixes, features, tests, and docs all welcome — see the [contributing guide](https://github.com/jentic/jentic-one/blob/main/CONTRIBUTING.md)
+2. **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – add or fix OpenAPI specs and Arazzo workflows in the open catalog — see the [contributing guide](https://github.com/jentic/jentic-public-apis/blob/main/CONTRIBUTING.md)
+3. **[`Arazzo Engine`](https://github.com/jentic/arazzo-engine)** and **[`Jentic Arazzo Tools`](https://github.com/jentic/jentic-arazzo-tools)** – runners, generators, parsers, validators, and UI for Arazzo workflows
+
 ### 🌟 New to Open Source?
-- Start with issues labeled `good first issue` in any of our repositories
-- Check out [Standard Agent's contribution guide](https://github.com/jentic/standard-agent/blob/main/good_first_issue.md)
+- Start with issues labeled `good first issue` in [Jentic One](https://github.com/jentic/jentic-one/labels/good%20first%20issue) or [Arazzo Engine](https://github.com/jentic/arazzo-engine/labels/good%20first%20issue)
+- Adding or improving an API spec in Jentic Public APIs is a great first contribution
 - Join our Discord for friendly help and guidance
 
 ### 🔥 Experienced Developer?
-- Look for `enhancement` and `feature` labeled issues
+- Look for `enhancement` and `feature` labeled issues in Jentic One
 - Propose new features or architectural improvements
 - Help review pull requests from new contributors
 
@@ -120,7 +116,7 @@ We welcome contributors of all backgrounds and experience levels!
 - Fix typos and clarify explanations
 
 ### 🎨 Designer or UX Expert?
-- Help improve our documentation design
+- Help improve the Jentic One UI and our documentation design
 - Create diagrams and visual aids
 - Enhance user experience across our tools
 
@@ -128,11 +124,11 @@ We welcome contributors of all backgrounds and experience levels!
 
 | Type | Examples | Repositories |
 |------|----------|--------------|
+| **Features** | Broker, credential vault, search, toolkit capabilities | Jentic One |
+| **API Specs** | OpenAPI documents, Arazzo workflows, spec fixes | Jentic Public APIs |
+| **Testing** | Unit tests, integration tests, test coverage | Jentic One, Arazzo Engine, Arazzo Tools |
+| **Workflows** | Arazzo runner and generator capabilities | Arazzo Engine, Arazzo Tools |
 | **Documentation** | API docs, tutorials, examples | All repositories |
-| **Testing** | Unit tests, integration tests, test coverage | Standard Agent, Arazzo Engine, Arazzo Tools |
-| **Features** | New reasoners, tool integrations, workflow capabilities | Standard Agent, Arazzo Engine |
-| **Examples** | Platform bots, use cases, demos | Standard Agent, SDKs |
-| **API Specs** | OpenAPI documents, Arazzo workflows | Jentic Public APIs |
 | **Infrastructure** | CI/CD, automation, tooling | All repositories |
 | **Community** | Discord moderation, issue triage, newcomer support | Organization-wide |
 
