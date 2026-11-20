@@ -104,13 +104,21 @@ Give your agents well-formed workflows and API specs to work with. These librari
 
 We welcome contributors of all backgrounds and experience levels!
 
+### 🎯 Where to Contribute First
+
+Our contribution priorities, in order:
+
+1. **[`Jentic One`](https://github.com/jentic/jentic-one)** – the self-hosted API execution layer. Bug fixes, features, tests, and docs all welcome — see the [contributing guide](https://github.com/jentic/jentic-one/blob/main/CONTRIBUTING.md)
+2. **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – add or fix OpenAPI specs and Arazzo workflows in the open catalog — see the [contributing guide](https://github.com/jentic/jentic-public-apis/blob/main/CONTRIBUTING.md)
+3. **[`Arazzo Engine`](https://github.com/jentic/arazzo-engine)** and **[`Jentic Arazzo Tools`](https://github.com/jentic/jentic-arazzo-tools)** – runners, generators, parsers, validators, and UI for Arazzo workflows
+
 ### 🌟 New to Open Source?
-- Start with issues labeled `good first issue` in any of our repositories
-- Check out [Standard Agent's contribution guide](https://github.com/jentic/standard-agent/blob/main/good_first_issue.md)
+- Start with issues labeled `good first issue` in [Jentic One](https://github.com/jentic/jentic-one/labels/good%20first%20issue), [Jentic Public APIs](https://github.com/jentic/jentic-public-apis/labels/good%20first%20issue), or [Arazzo Engine](https://github.com/jentic/arazzo-engine/labels/good%20first%20issue)
+- Adding or improving an API spec in Jentic Public APIs is a great first contribution
 - Join our Discord for friendly help and guidance
 
 ### 🔥 Experienced Developer?
-- Look for `enhancement` and `feature` labeled issues
+- Look for `enhancement` and `feature` labeled issues in Jentic One
 - Propose new features or architectural improvements
 - Help review pull requests from new contributors
 
@@ -120,7 +128,7 @@ We welcome contributors of all backgrounds and experience levels!
 - Fix typos and clarify explanations
 
 ### 🎨 Designer or UX Expert?
-- Help improve our documentation design
+- Help improve the Jentic One UI and our documentation design
 - Create diagrams and visual aids
 - Enhance user experience across our tools
 
@@ -128,11 +136,11 @@ We welcome contributors of all backgrounds and experience levels!
 
 | Type | Examples | Repositories |
 |------|----------|--------------|
+| **Features** | Broker, credential vault, search, toolkit capabilities | Jentic One |
+| **API Specs** | OpenAPI documents, Arazzo workflows, spec fixes | Jentic Public APIs |
+| **Testing** | Unit tests, integration tests, test coverage | Jentic One, Arazzo Engine, Arazzo Tools |
+| **Workflows** | Arazzo runner and generator capabilities | Arazzo Engine, Arazzo Tools |
 | **Documentation** | API docs, tutorials, examples | All repositories |
-| **Testing** | Unit tests, integration tests, test coverage | Standard Agent, Arazzo Engine, Arazzo Tools |
-| **Features** | New reasoners, tool integrations, workflow capabilities | Standard Agent, Arazzo Engine |
-| **Examples** | Platform bots, use cases, demos | Standard Agent, SDKs |
-| **API Specs** | OpenAPI documents, Arazzo workflows | Jentic Public APIs |
 | **Infrastructure** | CI/CD, automation, tooling | All repositories |
 | **Community** | Discord moderation, issue triage, newcomer support | Organization-wide |
 
