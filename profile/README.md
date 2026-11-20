@@ -29,7 +29,7 @@
   - Fully API-compatible with the hosted and VPC Jentic editions
   - Perfect for: self-hosters, privacy-conscious teams, local agent development
 
-- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 6,000+ AI-ready API specs and 2,000+ Arazzo workflows
+- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 8,000+ AI-ready API specs and 2,000+ Arazzo workflows
   - Perfect for: API documentation writers, knowledge contributors
 
 - **[`Awesome Agent APIs`](https://github.com/jentic/awesome-agent-apis)** - A curated list of the most AI-agent-ready APIs, scored by the Jentic API AI-Readiness Framework
