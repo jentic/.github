@@ -34,18 +34,6 @@
 
 - **[`Awesome Agent APIs`](https://github.com/jentic/awesome-agent-apis)** - A curated list of the most AI-agent-ready APIs, scored by the Jentic API AI-Readiness Framework
 
-- **[`Jentic Skills`](https://github.com/jentic/jentic-skills)** – Agent skills for the Jentic platform
-  - **[`jentic`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic)** – Core Jentic skill for self-hosted Jentic Mini
-  - **[`jentic-v1`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic-v1)** – Skill for hosted Jentic (jentic.com)
-  - **[`jentic-workflows`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic-workflows)** – Generates Arazzo workflow YAML from a natural-language goal or agent tool trace
-  - Perfect for: OpenClaw users, agent workflow automation
-
-- **[`Jentic SDK (Python)`](https://github.com/jentic/jentic-sdks)** – Official Python SDK for discovering and executing APIs and workflows in your agents
-  - Perfect for: Python developers, agent builders, tool integrators
-
-- **[`Jentic Tools`](https://github.com/jentic/jentic-sdks)** – MCP server for connecting any MCP-compatible agent to Jentic
-  - Perfect for: Claude Desktop, Cursor, Windsurf, ChatGPT, VS Code MCP users
-
 - **[`Standard Agent`](https://github.com/jentic/standard-agent)** – Composable Python agent library with Jentic tools built in
   - Perfect for: Python developers building reasoning agents
 
