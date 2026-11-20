@@ -106,7 +106,7 @@ We welcome contributors of all backgrounds and experience levels!
 
 ### 🎯 Where to Contribute First
 
-Our contribution priorities, in order:
+The best places to get involved:
 
 1. **[`Jentic One`](https://github.com/jentic/jentic-one)** – the self-hosted API execution layer. Bug fixes, features, tests, and docs all welcome — see the [contributing guide](https://github.com/jentic/jentic-one/blob/main/CONTRIBUTING.md)
 2. **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – add or fix OpenAPI specs and Arazzo workflows in the open catalog — see the [contributing guide](https://github.com/jentic/jentic-public-apis/blob/main/CONTRIBUTING.md)
