@@ -29,6 +29,11 @@
   - Fully API-compatible with the hosted and VPC Jentic editions
   - Perfect for: self-hosters, privacy-conscious teams, local agent development
 
+- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 6,000+ AI-ready API specs and 2,000+ Arazzo workflows
+  - Perfect for: API documentation writers, knowledge contributors
+
+- **[`Awesome Agent APIs`](https://github.com/jentic/awesome-agent-apis)** - A curated list of the most AI-agent-ready APIs, scored by the Jentic API AI-Readiness Framework
+
 - **[`Jentic Skills`](https://github.com/jentic/jentic-skills)** – Agent skills for the Jentic platform
   - **[`jentic`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic)** – Core Jentic skill for self-hosted Jentic Mini
   - **[`jentic-v1`](https://github.com/jentic/jentic-skills/tree/main/skills/jentic-v1)** – Skill for hosted Jentic (jentic.com)
@@ -40,11 +45,6 @@
 
 - **[`Jentic Tools`](https://github.com/jentic/jentic-sdks)** – MCP server for connecting any MCP-compatible agent to Jentic
   - Perfect for: Claude Desktop, Cursor, Windsurf, ChatGPT, VS Code MCP users
-
-- **[`Jentic Public APIs`](https://github.com/jentic/jentic-public-apis)** – Open catalog of 6,000+ AI-ready API specs and 2,000+ Arazzo workflows
-  - Perfect for: API documentation writers, knowledge contributors
-
-- **[`Awesome Agent APIs`](https://github.com/jentic/awesome-agent-apis)** - A curated list of the most AI-agent-ready APIs, scored by the Jentic API AI-Readiness Framework
 
 - **[`Standard Agent`](https://github.com/jentic/standard-agent)** – Composable Python agent library with Jentic tools built in
   - Perfect for: Python developers building reasoning agents
